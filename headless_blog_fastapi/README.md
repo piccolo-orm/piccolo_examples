@@ -2,6 +2,9 @@
 
 An example headless blog, built with FastAPI and Piccolo.
 
+![Admin](_images/admin.png?raw=true "Admin")
+![FastAPI](_images/fastapi.png?raw=true "FastAPI")
+
 ## Trying it out
 
 Install requirements:
