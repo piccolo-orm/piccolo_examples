@@ -8,7 +8,7 @@ Here are some example Piccolo projects.
 
 Build a documented API with an admin in minutes!
 
------
+---
 
 ## Live projects
 

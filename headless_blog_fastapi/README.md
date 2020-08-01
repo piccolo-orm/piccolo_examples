@@ -2,7 +2,12 @@
 
 An example headless blog, built with FastAPI and Piccolo.
 
+Includes an admin GUI:
+
 ![Admin](_images/admin.png?raw=true "Admin")
+
+And an interactive API:
+
 ![FastAPI](_images/fastapi.png?raw=true "FastAPI")
 
 ## Trying it out
