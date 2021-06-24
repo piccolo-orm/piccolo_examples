@@ -32,4 +32,4 @@ Try the Piccolo admin for yourself [here](https://demo1.piccolo-orm.com/#/).
  * [An example Q&A application](https://github.com/sinisaos/starlette-piccolo-orm)
  * [An example accomodation rental application](https://github.com/sinisaos/starlette-piccolo-rental)
  * [A headless forum, using FastAPI](https://github.com/sinisaos/headless-forum-fastapi)
- 
+ * [FastAPI with SvelteKit](https://github.com/heliumbrain/fastapi-piccolo)
