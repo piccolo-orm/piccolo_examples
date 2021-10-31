@@ -29,7 +29,7 @@ Try the Piccolo admin for yourself [here](https://demo1.piccolo-orm.com/#/).
 
 ## Examples from the community
 
- * [A movie database](https://github.com/piccolo-orm/pymdb)
+ * [A movie database, using FastAPI](https://github.com/piccolo-orm/pymdb)
  * [A Q&A application](https://github.com/sinisaos/starlette-piccolo-orm)
  * [An accommodation rental application](https://github.com/sinisaos/starlette-piccolo-rental)
  * [A headless forum, using FastAPI](https://github.com/sinisaos/headless-forum-fastapi)
