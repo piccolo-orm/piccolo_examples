@@ -27,10 +27,16 @@ Try the Piccolo admin for yourself [here](https://demo1.piccolo-orm.com/#/).
 
 ---
 
+## Templates
+
+ * [FastAPI, Piccolo, and Docker Compose](https://github.com/AliSayyah/FastAPI-Piccolo-Template)
+ * [FastAPI with SvelteKit](https://github.com/heliumbrain/fastapi-piccolo)
+
+---
+
 ## Examples from the community
 
  * [A movie database, using FastAPI](https://github.com/piccolo-orm/pymdb)
  * [A Q&A application](https://github.com/sinisaos/starlette-piccolo-orm)
  * [An accommodation rental application](https://github.com/sinisaos/starlette-piccolo-rental)
  * [A headless forum, using FastAPI](https://github.com/sinisaos/headless-forum-fastapi)
- * [FastAPI with SvelteKit](https://github.com/heliumbrain/fastapi-piccolo)
