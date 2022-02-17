@@ -4,9 +4,9 @@ Here are some example Piccolo projects.
 
 ## Tutorials
 
-### headless blog fastapi
+### Headless blog using FastAPI
 
-Build a documented API with an admin in minutes!
+Build a documented API with an admin in minutes! See [code](./headless_blog_fastapi).
 
 ---
 
