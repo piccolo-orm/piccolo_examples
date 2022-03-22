@@ -31,6 +31,7 @@ Try the Piccolo admin for yourself [here](https://demo1.piccolo-orm.com/#/).
 
  * [FastAPI, Piccolo, and Docker Compose](https://github.com/AliSayyah/FastAPI-Piccolo-Template)
  * [FastAPI with SvelteKit](https://github.com/heliumbrain/fastapi-piccolo)
+ * [FastAPI with Vue JS](https://github.com/sinisaos/piccolo-vue-starter)
 
 ---
 
