@@ -8,6 +8,10 @@ Here are some example Piccolo projects.
 
 Build a documented API with an admin in minutes! See [code](./headless_blog_fastapi).
 
+### A simple REST API with BlackSheep
+
+A [tutorial for using BlackSheep with Piccolo](https://carlosmv.hashnode.dev/a-simple-rest-api-with-blacksheep-and-piccolo-orm-or-python).
+
 ---
 
 ## Live projects
@@ -16,7 +20,7 @@ Here are some live Piccolo projects you can play around with.
 
 ### Simple Investment Guide
 
-A content website powered by Piccolo. Try it [here](http://simpleinvestmentguide.com/).
+A simple content website powered by Piccolo. Try it [here](http://simpleinvestmentguide.com/).
 
 ### Piccolo Admin
 
@@ -30,8 +34,9 @@ Try the Piccolo admin for yourself [here](https://demo1.piccolo-orm.com/#/).
 ## Templates
 
  * [FastAPI, Piccolo, and Docker Compose](https://github.com/AliSayyah/FastAPI-Piccolo-Template)
- * [FastAPI with SvelteKit](https://github.com/heliumbrain/fastapi-piccolo)
- * [FastAPI with Vue JS](https://github.com/sinisaos/piccolo-vue-starter)
+ * [FastAPI, Piccolo, and SvelteKit](https://github.com/heliumbrain/fastapi-piccolo)
+ * [FastAPI, Piccolo, and Vue JS](https://github.com/sinisaos/piccolo-vue-starter)
+ * [BlackSheep and Piccolo](https://github.com/sinisaos/blacksheep-piccolo)
 
 ---
 
