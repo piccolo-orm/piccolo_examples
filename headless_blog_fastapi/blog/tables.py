@@ -1,5 +1,5 @@
 from piccolo.table import Table
-from piccolo.columns import Varchar, Boolean, Timestamp, Text
+from piccolo.columns import Varchar, Boolean, Timestamptz, Text
 
 
 class Post(Table):
@@ -10,4 +10,4 @@ class Post(Table):
     title = Varchar()
     content = Text()
     published = Boolean(default=False)
-    created_on = Timestamp()
+    created_on = Timestamptz()
