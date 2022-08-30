@@ -1,5 +1,5 @@
 from piccolo.apps.migrations.auto import MigrationManager
-from piccolo.columns.defaults.timestamp import TimestampNow
+from piccolo.columns.defaults.timestamptz import TimestamptzNow
 
 
 ID = "2020-07-29T20:47:50"
@@ -61,9 +61,9 @@ async def forwards():
         table_class_name="Post",
         tablename="post",
         column_name="created_on",
-        column_class_name="Timestamp",
+        column_class_name="Timestamptz",
         params={
-            "default": TimestampNow(),
+            "default": TimestamptzNow(),
             "null": False,
             "primary": False,
             "key": False,
