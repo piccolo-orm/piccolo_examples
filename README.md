@@ -37,6 +37,7 @@ Try the Piccolo admin for yourself [here](https://demo1.piccolo-orm.com/#/).
  * [FastAPI, Piccolo, and SvelteKit](https://github.com/heliumbrain/fastapi-piccolo)
  * [FastAPI, Piccolo, and Vue JS](https://github.com/sinisaos/piccolo-vue-starter)
  * [BlackSheep and Piccolo](https://github.com/sinisaos/blacksheep-piccolo)
+ * [Starlite and Piccolo](https://github.com/sinisaos/starlite-piccolo)
 
 ---
 
